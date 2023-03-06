@@ -1,0 +1,10 @@
+{
+    "routes": [
+      { "src": "/php/(.*)", "dest": "php/index.php" },
+      { "src": "/(.*)", "dest": "/$1.html" }
+    ],
+    "builds": [
+      { "src": "*.html", "use": "@vercel/static" },
+      { "src": "php/*.php", "use": "@vercel/php" }
+    ]
+}
