@@ -1,6 +1,6 @@
 # Guvi User Profile
 
-A project for [Guvi Technologies](https://github.com/LawnchairLauncher/lawnchair)!
+A project for [Guvi Technologies](https://guvi.in)!
 
 ## Screenshots
 
