@@ -18,10 +18,13 @@ A project for [Guvi Technologies](https://guvi.in)!
 
 ![](screenshots/5.png)
 
-### Profile Page
+### Login Page
 
 ![](screenshots/6.png)
 
-Profile Page with edited name
+### Profile Page
 
 ![](screenshots/7.png)
+
+Profile Page with edited name
+![](screenshots/8.png)
